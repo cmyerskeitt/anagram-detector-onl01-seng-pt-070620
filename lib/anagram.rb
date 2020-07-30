@@ -6,5 +6,5 @@ class Anagram
   end
   
   def match(anagram_array)
-    @word.
+    @word.select { word | word
 end 
